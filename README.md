@@ -4,6 +4,8 @@ The goal of this project is to create a versatile robotic platform for robotic c
 
 It started with a very primitive PCB design that featured just a few, mostly through-hole components and evolved into a much more complicated design with over a hundred SMD components.
 
+![Drag Racing](image.jpg)
+
 ## Main features:
 - NXP's FRDM dev boards, Arduino compatibility
 - Two NEMA8 stepper motors
